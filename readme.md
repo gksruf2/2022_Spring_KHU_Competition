@@ -1,6 +1,6 @@
 ### 2022_Spring_KHU_Competition
 
-#### Overview
+#### ◎ Overview
 The goal is to achieve high performance in a given dataset using techniques learned in the lecture.
 
 You can use any data augmentation techniques or DNN models or optimizer or tuning techniques to achieve optimal performance.
@@ -25,7 +25,7 @@ https://gitlab.com/mlvc_lab/practical-machine-learning-qna/-/issues?scope=all&ut
 
 Copy this Google Colab ipynb file on your google drive and use that.
 
-#### Data
+#### ◎ Data
 Data Description.
 
 58388 Training dataset with label(Class당 150장)
@@ -38,4 +38,4 @@ Image Size : 224x224
 
 Below contents are the example of the format of the sets.
 
-#### Final score : 99.3%
+#### ◎ Final score : 99.3%
